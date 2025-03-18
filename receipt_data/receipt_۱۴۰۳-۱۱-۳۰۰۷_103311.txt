@@ -1,0 +1,46 @@
+Based on the provided image, here is the extracted information:
+
+# Transaction Details Extraction
+
+**بانک/نوع انتقال (Bank/Transaction Type):**
+- همراه بانک قرض‌الحسنه رسالت
+- رسید انتقال وجه
+
+**شماره تراکنش (Transaction Number):**
+- ۰c63a88dbfcc
+
+**شماره سپرده (Deposit Number):**
+- ۱۰۱۰۹۳۷۷۳۸.۱
+
+**شبا مقصد (Destination IBAN):**
+- IR۱۰۰۱۹۰۰۰۰۰۰۱۲۰۱۷۰۳۱۳۰۰۳
+
+**مشخصات شبا مقصد (Destination Account Info):**
+- تحول وارنا مبادلات نوآفرین
+
+**بانک مقصد (Destination Bank):**
+- صادرات
+
+**وضعیت سپرده مقصد (Destination Account Status):**
+- حساب فعال است.
+
+**مبلغ انتقال (Transfer Amount):**
+- ۱,۰۰۰,۰۰۰,۰۰۰ ریال
+
+**شرح/بابت (Description/Purpose):**
+- پرداخت قرض و تأدیه دیون(قرض الحسنه، بدهی)
+
+**شماره سند (Document Number):**
+- ۱۴۰۳/۱۱/۳۰۰۷۰۲۰۲۵۸۹۰
+
+**تاریخ (Date):**
+- ۱۴۰۳/۱۱/۳۰
+
+**ساعت (Time):**
+- ۱۴:۵۹:۲۸
+
+**نتیجه (Result):**
+- تراکنش موفق
+
+**توضیحات (Additional Info):**
+- عملیات با موفقیت انجام شد
